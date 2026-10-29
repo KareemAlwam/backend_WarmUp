@@ -1,0 +1,23 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "Todo list API for review my backend skills",
+  "keywords": [
+    "WarmUp"
+  ],
+  "homepage": "https://github.com/KareemAlwam/backend_WarmUp#readme",
+  "bugs": {
+    "url": "https://github.com/KareemAlwam/backend_WarmUp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KareemAlwam/backend_WarmUp.git"
+  },
+  "license": "ISC",
+  "author": "Kareem",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
